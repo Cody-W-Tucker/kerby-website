@@ -1,0 +1,46 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^(www\.)?experiencethewest\.com$ [NC]
+RewriteRule ^(.*)$ https://experiencethewest.com/$1 [L,R=301]
+</IfModule>
+
+RewriteEngine on
+
+RewriteOptions inherit
+RewriteCond %{HTTP_HOST} ^experiencethewest\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.experiencethewest\.com$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteRule ^sample\.php$ "https\:\/\/shop\.experiencethewest\.com\/sample\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^experiencethewest\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.experiencethewest\.com$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteRule ^cookin\.htm$ "https\:\/\/shop\.experiencethewest\.com\/shop\/cookbooks\/range\-riders\-american\-west\-cookbooks\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^experiencethewest\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.experiencethewest\.com$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteRule ^cards\.htm$ "https\:\/\/shop\.experiencethewest\.com\/shop\/christmas\-cards\/assorted\-christmas\-card\-pack\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^experiencethewest\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.experiencethewest\.com$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteRule ^prints\.htm$ "https\:\/\/shop\.experiencethewest\.com\/product\-category\/art\-prints\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^experiencethewest\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.experiencethewest\.com$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteRule ^order\.htm$ "https\:\/\/shop\.experiencethewest\.com\/shop\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^experiencethewest\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.experiencethewest\.com$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^calendar\.htm$ "https\:\/\/shop\.experiencethewest\.com\/shop\/calendars\/2020\-range\-riders\-calendars\/" [R=301,L]
