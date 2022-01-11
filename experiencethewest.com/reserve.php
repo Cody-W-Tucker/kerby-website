@@ -93,14 +93,26 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	    <div align="center">
 	      <font size="4" face="Arial, Helvetica, sans-serif">
 	        <strong>			  
-	          <a href="calendar2.htm">Range Rider Calendars</a>
-	          | <a href="jumbo.htm">Jumbo Calendars</a> 
-	          | <a href="cookin.htm">Cookbooks</a> 
-	          | <a href="cards.htm">Cards</a> 
-	          | <a href="prints.htm">Prints</a> 
-	          | <a href="order.htm">Order</a> 
-	          | <a href="contact.htm">Contact Us</a>
-		  | <a href="about.htm">About Us</a>
+          <a href="calendar2.html">Range Rider Calendars</a> |
+                    <a href="jumbo.html">Jumbo Calendars</a> |
+                    <a
+                      href="https://shop.experiencethewest.com/shop/cookbooks/range-riders-american-west-cookbooks/"
+                      >Cookbooks</a
+                    >
+                    |
+                    <a
+                      href="https://shop.experiencethewest.com/shop/christmas-cards/assorted-christmas-card-pack/"
+                      >Cards</a
+                    >
+                    |
+                    <a
+                      href="https://shop.experiencethewest.com/product-category/art-prints/"
+                      >Prints</a
+                    >
+                    |
+                    <a href="https://shop.experiencethewest.com/shop/">Order</a>
+                    | <a href="contact.html">Contact Us</a> |
+                    <a href="about.html">About Us</a>
                 </strong>
               </font>
             </div>
@@ -114,12 +126,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           <td width="100%" height="184">
 <p align="center"><font face="Arial, Helvetica, sans-serif"><b><font size="4">Place 
               Your Reservation Today! <br>
-              Nothing is due until November 1, 2021</font></b></font></p>
+              Nothing is due until November 1, 2022</font></b></font></p>
             <p align="center"> <font size="4" face="Arial, Helvetica, sans-serif"><strong>Please 
               complete the information below, or call 1-800-657-2149<br>
               ( * are required fields)</strong></font></p>
             <p align="center"><font face="Arial, Helvetica, sans-serif" size="4">Pricing, 
-              Terms &amp; Conditions <!--<a href="#" onClick="MM_openBrWindow('prices.html','','scrollbars=yes,resizable=yes,width=600,height=275')">--><a href="prices2020.html">HERE</a></font><font face="Arial, Helvetica, sans-serif"> 
+              Terms &amp; Conditions <!--<a href="#" onClick="MM_openBrWindow('prices.html','','scrollbars=yes,resizable=yes,width=600,height=275')">--><a href="prices2022.html">HERE</a></font><font face="Arial, Helvetica, sans-serif"> 
               <br>
               <br>
               </font></p></td>
@@ -130,7 +142,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         <table width="100%" border="1" align="center" cellpadding="5" cellspacing="1" bordercolor="#000066" style="border-collapse: collapse">
           <input type="hidden" name="CalendarYear" value="res2008">
           <tr><!--   w=427   h=500 --> 
-            <td width="45%" height="30" rowspan="11" bordercolor="#FFFFFF"><div align="center"><b><img src="images/Combined_Ad_22_A.jpg" alt="Ad Calendars" width="427" height="500" border="0"> 
+            <td width="45%" height="30" rowspan="11" bordercolor="#FFFFFF"><div align="center"><b><img src="images/yearly/2023/Combined_Ad_23_A.jpg" alt="Ad Calendars" width="427" height="500" border="0"> 
             </b></div></td>
             <td height="30" width="29%" bgcolor="#EFF3F7" bordercolor="#FFFFFF"><b><strong><font size="2" face="Arial, Helvetica, sans-serif"> 
               Quantity of Calendars </font></strong><font size="2" face="Arial, Helvetica, sans-serif">*</font></b></td>
@@ -211,7 +223,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           <tr> 
             <td height="30" colspan="3" bordercolor="#FFFFFF" bgcolor="#EFF3F7"><b> 
               </b> <div align="center"><b><font size="2" face="Arial, Helvetica, sans-serif"> 
-                Your calendars will be delivered to you by UPS September 1, 2021. 
+                Your calendars will be delivered to you by UPS September 1, 2022. 
                 <br>
                 </font> <font size="2" face="Arial, Helvetica, sans-serif">If 
                 another ship date is desired, please enter it here: 
@@ -231,7 +243,7 @@ rder
                 </font>We will provide a proof for your approval.</font></b></div></td>
           </tr>
           <tr> 
-            <td width="45%" height="30" rowspan="6" bordercolor="#FFFFFF"><div align="center"><b><font size="2" face="Arial, Helvetica, sans-serif"><img src="images/2022 images/Cover_Ad_22.jpg" alt="Calendar" width="474" height="451"></font> 
+            <td width="45%" height="30" rowspan="6" bordercolor="#FFFFFF"><div align="center"><b><font size="2" face="Arial, Helvetica, sans-serif"><img src="images/yearly/2023/Cover_Ad_23.jpg" alt="Calendar" width="474" height="451"></font> 
             </b></div></td>
             <td height="30" width="29%" bgcolor="#EFF3F7" bordercolor="#FFFFFF"><b><font size="2" face="Arial, Helvetica, sans-serif"> 
               Line 1</font></b></td>
@@ -296,7 +308,7 @@ rder
         to see our Privacy Policy Statement</b></font><font face="Arial, Helvetica, sans-serif"> 
         </font><!-- InstanceEndEditable -->
 <p align="right"><font color="#996633" size="2" face="Verdana, Arial, Helvetica, sans-serif">&copy; 
-        2021 Bob Kerby's Longhorn Studio </font></p></td>
+        2022 Bob Kerby's Longhorn Studio </font></p></td>
   </tr>
 </table>
 <p align="center">&nbsp;</p>

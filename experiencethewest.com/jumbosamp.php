@@ -85,14 +85,26 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	    <div align="center">
 	      <font size="2" face="Arial, Helvetica, sans-serif">
 	        <strong>			  
-	          <a href="calendar2.htm">Range Rider Calendars</a>
-	          | <a href="jumbo.htm">Jumbo Calendars</a> 
-	          | <a href="cookin.htm">Cookbooks</a> 
-	          | <a href="cards.htm">Cards</a> 
-	          | <a href="prints.htm">Prints</a> 
-	          | <a href="order.htm">Order</a> 
-	          | <a href="contact.htm">Contact Us</a>
-		  | <a href="about.htm">About Us</a>
+          <a href="calendar2.html">Range Rider Calendars</a> |
+                    <a href="jumbo.html">Jumbo Calendars</a> |
+                    <a
+                      href="https://shop.experiencethewest.com/shop/cookbooks/range-riders-american-west-cookbooks/"
+                      >Cookbooks</a
+                    >
+                    |
+                    <a
+                      href="https://shop.experiencethewest.com/shop/christmas-cards/assorted-christmas-card-pack/"
+                      >Cards</a
+                    >
+                    |
+                    <a
+                      href="https://shop.experiencethewest.com/product-category/art-prints/"
+                      >Prints</a
+                    >
+                    |
+                    <a href="https://shop.experiencethewest.com/shop/">Order</a>
+                    | <a href="contact.html">Contact Us</a> |
+                    <a href="about.html">About Us</a>
                 </strong>
               </font>
             </div>
@@ -128,23 +140,25 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
               <font size="2" face="Arial, Helvetica, sans-serif">(Check box)</font></td>
             <td width="30%" height="30" valign="top" bordercolor="#FFFFFF" bgcolor="#EFF3F7"><div align="center">
               <p><font size="2" face="Arial, Helvetica, sans-serif">
-		<a href="images/2022 images/Jumbo_Vanishing_Ad_22.jpg"><img src="images/2022 images/Jumbo_Vanishing_Ad_22.jpg" width="200" height="288" border="0"></a><br>
+		<a href="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg" width="200" height="288" border="0"></a><br>
                 </font></p>
               <p><font size="2" face="Arial, Helvetica, sans-serif">
-               <strong><img height="16" src="images/newanim.gif" width="33" /> 
-               <input type=radio name='Style' value='Style # VB16'checked>
-                Style # VB16<br />
-                Vanishing Breed
+               <strong> 
+               <input type=radio name='Style' value='Style # HMO17'>
+                Style # HMO17<br />
+                Head 'Em Up Move 'Em Out
               </font></p>
             </div></td>
             <td width="30%" height="30" valign="top" bordercolor="#FFFFFF" bgcolor="#EFF3F7"><div align="center">
                 <p><font size="2" face="Arial, Helvetica, sans-serif">
-		<a href="images/2022 images/Jumbo_TwoOnOne_Ad_22.jpg"><img src="images/2022 images/Jumbo_TwoOnOne_Ad_22.jpg" width="200" height="288" border="0"></a><br>
+                  
+		<a href="images/yearly/2023/Jumbo_New_PunchinCows_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_New_PunchinCows_Ad_23.jpg" width="200" height="288" border="0"></a><br>
                 </font></p>
               <p><font size="2" face="Arial, Helvetica, sans-serif">
-                <input type=radio name='Style' value='Style # T0015'>
-                Style # T0015<br />
-              Two On One
+                <input type=radio name='Style' value='Style # PCC14'checked>
+                <!-- <img height="16" src="images/newanim.gif" width="33" /> -->
+                Style # PCC14<br />
+                Punchin' Cows at Crow Creek
               </font></p>
             </div></td>
           </tr>
@@ -251,7 +265,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       </form>
       <p>&nbsp;<!-- InstanceEndEditable -->
 <p align="right"><font color="#996633" size="1" face="Verdana, Arial, Helvetica, sans-serif">&copy; 
-        2021 Bob Kerby's Longhorn Studio </font></p></td>
+        2022 Bob Kerby's Longhorn Studio </font></p></td>
   </tr>
 </table>
 <p align="center">&nbsp;</p>

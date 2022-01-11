@@ -83,14 +83,26 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	    <div align="center">
 	      <font size="4" face="Arial, Helvetica, sans-serif">
 	        <strong>			  
-	          <a href="calendar2.htm">Range Rider Calendars</a>
-	          | <a href="jumbo.htm">Jumbo Calendars</a> 
-	          | <a href="cookin.htm">Cookbooks</a> 
-	          | <a href="cards.htm">Cards</a> 
-	          | <a href="prints.htm">Prints</a> 
-	          | <a href="order.htm">Order</a> 
-	          | <a href="contact.htm">Contact Us</a>
-		  | <a href="about.htm">About Us</a>
+          <a href="calendar2.html">Range Rider Calendars</a> |
+                    <a href="jumbo.html">Jumbo Calendars</a> |
+                    <a
+                      href="https://shop.experiencethewest.com/shop/cookbooks/range-riders-american-west-cookbooks/"
+                      >Cookbooks</a
+                    >
+                    |
+                    <a
+                      href="https://shop.experiencethewest.com/shop/christmas-cards/assorted-christmas-card-pack/"
+                      >Cards</a
+                    >
+                    |
+                    <a
+                      href="https://shop.experiencethewest.com/product-category/art-prints/"
+                      >Prints</a
+                    >
+                    |
+                    <a href="https://shop.experiencethewest.com/shop/">Order</a>
+                    | <a href="contact.html">Contact Us</a> |
+                    <a href="about.html">About Us</a>
                 </strong>
               </font>
             </div>
@@ -109,7 +121,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
                 <font face='Arial, Helvetica, sans-serif' size=2 color='#FFFFFF'><strong>Jumbo Calendar Reservation/Order Form</strong></font></td>
           </tr>
           <tr> 
-            <td colspan="3" bgcolor="#B5CBEF" height="16" bordercolor="#FFFFFF" background="images/tile_sub.gif"><div align="center"><font size="2" face="Verdana"><b><font size="3" face="Arial, Helvetica, sans-serif" align="left"><strong>Reserve yours today! Nothing is due until November 1, 2021.</strong></font></b></font></div></td>
+            <td colspan="3" bgcolor="#B5CBEF" height="16" bordercolor="#FFFFFF" background="images/tile_sub.gif"><div align="center"><font size="2" face="Verdana"><b><font size="3" face="Arial, Helvetica, sans-serif" align="left"><strong>Reserve yours today! Nothing is due until November 1, 2022.</strong></font></b></font></div></td>
           </tr>
           <tr> 
             <td colspan="3" bgcolor="#D6DFEF" height="16" bordercolor="#FFFFFF"><div align="center"><font size="2" face="Verdana"><strong>Please 
@@ -119,22 +131,22 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
             <td height="30" width="168" bgcolor="#EFF3F7" bordercolor="#FFFFFF"><strong><font size="2" face="Arial, Helvetica, sans-serif"> 
               Calendar Style *</font></strong></td>
             <td width="202" valign="top" bordercolor="#FFFFFF" bgcolor="#EFF3F7"><div align="center">
-             <font face="Arial, Helvetica, sans-serif" size="2"><strong><img height="16" src="images/newanim.gif" width="33" /></strong> </font></strong> </font><span style="font-size:16px;"><font face="Arial, Helvetica, sans-/>
+             <font face="Arial, Helvetica, sans-serif" size="2"></font></strong> </font><span style="font-size:16px;"><font face="Arial, Helvetica, sans-/>
              
-                <a href="calendar2.htm"><p><a href="/images/2022 images/Jumbo_Vanishing_Ad_22.jpg"><img src="/images/2022 images/Jumbo_Vanishing_Ad_22.jpg" width="250" height="340" border="0"></a></p>
+                <a href="calendar2.htm"><p><a href="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg" width="250" height="340" border="0"></a></p>
                 <p><font size="3" face="Arial, Helvetica, sans-serif"> 
-                  <input type=radio name='CalendarStyle' value='Style #VB16' checked>
-                  Style # VB16<br />
-                  Vanishing Breed
+                  <input type=radio name='CalendarStyle' value='Style #HMO17'>
+                  Style # HMO17<br />
+                  Head 'Em Up Move 'Em Out
                   </font></p>
               </div></td>
             <td width="211" height="30" valign="top" bordercolor="#FFFFFF" bgcolor="#EFF3F7"> 
              -<a href="calendar2.htm"><div align="center"> 
-                <p><a href="/images/2022 images/Jumbo_TwoOnOne_Ad_22.jpg"><img src="/images/2022 images/Jumbo_TwoOnOne_Ad_22.jpg" width="250" height="340" border="0"></a></p>
+                <p><a href="images/yearly/2023/Jumbo_PunchinCows_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_New_PunchinCows_Ad_23.jpg" width="250" height="340" border="0"></a></p>
                 <p><font size="3" face="Arial, Helvetica, sans-serif"> 
-                  <input type=radio name='CalendarStyle' value='Style #T0015' >
-                  Style # T0015<br />
-                  Two On One
+                  <input type=radio name='CalendarStyle' value='Style #PCC14' checked>
+                  Style # PCC14<br />
+                  Punchin' Cows at Crow Creek
                   </font></p>
               </div></td>
           </tr>
@@ -240,7 +252,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       </form>
       <p>&nbsp;<!-- InstanceEndEditable -->
 <p align="right"><font color="#996633" size="2" face="Verdana, Arial, Helvetica, sans-serif">&copy; 
-        2021 Bob Kerby's Longhorn Studio </font></p></td>
+        2022 Bob Kerby's Longhorn Studio </font></p></td>
   </tr>
 </table>
 <p align="center">&nbsp;</p>
