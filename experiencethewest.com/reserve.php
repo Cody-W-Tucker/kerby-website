@@ -75,7 +75,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
         <!-- fwtable fwsrc="07T.png" fwbase="07aT.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
         <tr> 
-	  <td width="175"><a href="index.html"><img src="images/LOGO.gif" width="200" height="140" border="0"></a></td>
+	  <td width="175"><a href="index.html"><img src="images/global/LOGO.gif" width="200" height="140" border="0"></a></td>
           <td width="100%"><div align="center"><font size="4" face="Arial, Helvetica, sans-serif"><strong><font size="6">Welcome 
               to the Western World of artist Bob Kerby. </font><br>
               <br>
@@ -142,7 +142,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         <table width="100%" border="1" align="center" cellpadding="5" cellspacing="1" bordercolor="#000066" style="border-collapse: collapse">
           <input type="hidden" name="CalendarYear" value="res2008">
           <tr><!--   w=427   h=500 --> 
-            <td width="45%" height="30" rowspan="11" bordercolor="#FFFFFF"><div align="center"><b><img src="images/yearly/2023/Combined_Ad_23_A.jpg" alt="Ad Calendars" width="427" height="500" border="0"> 
+            <td width="45%" height="30" rowspan="11" bordercolor="#FFFFFF"><div align="center"><b><img src="images/yearly/2023/Combined_Ad_23_A.png" alt="Ad Calendars" width="427" height="500" border="0"> 
             </b></div></td>
             <td height="30" width="29%" bgcolor="#EFF3F7" bordercolor="#FFFFFF"><b><strong><font size="2" face="Arial, Helvetica, sans-serif"> 
               Quantity of Calendars </font></strong><font size="2" face="Arial, Helvetica, sans-serif">*</font></b></td>

@@ -67,7 +67,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
         <!-- fwtable fwsrc="07T.png" fwbase="07aT.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
         <tr> 
-	  <td width="175"><a href="index.html"><img src="images/LOGO.gif" width="200" height="140" border="0"></a></td>
+	  <td width="175"><a href="index.html"><img src="images/global/LOGO.gif" width="200" height="140" border="0"></a></td>
           <td width="616"><div align="center"><font size="3" face="Arial, Helvetica, sans-serif"><strong><font size="4">Welcome 
               to the Western World of artist Bob Kerby. </font><br>
               <br>
@@ -143,7 +143,6 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<a href="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg" width="200" height="288" border="0"></a><br>
                 </font></p>
               <p><font size="2" face="Arial, Helvetica, sans-serif">
-               <strong> 
                <input type=radio name='Style' value='Style # HMO17'>
                 Style # HMO17<br />
                 Head 'Em Up Move 'Em Out
@@ -152,7 +151,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
             <td width="30%" height="30" valign="top" bordercolor="#FFFFFF" bgcolor="#EFF3F7"><div align="center">
                 <p><font size="2" face="Arial, Helvetica, sans-serif">
                   
-		<a href="images/yearly/2023/Jumbo_New_PunchinCows_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_New_PunchinCows_Ad_23.jpg" width="200" height="288" border="0"></a><br>
+		<a href="images/yearly/2023/Jumbo_PunchinCows_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_New_PunchinCows_Ad_23.jpg" width="200" height="288" border="0"></a><br>
                 </font></p>
               <p><font size="2" face="Arial, Helvetica, sans-serif">
                 <input type=radio name='Style' value='Style # PCC14'checked>
