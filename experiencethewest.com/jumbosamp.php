@@ -143,7 +143,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<a href="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_New_HeadEmUp_Ad_23.jpg" width="200" height="288" border="0"></a><br>
                 </font></p>
               <p><font size="2" face="Arial, Helvetica, sans-serif">
-               <input type=radio name='Style' value='Style # HMO17'>
+               <input type=radio name='Style' value='Style # HMO17' checked>
                 Style # HMO17<br />
                 Head 'Em Up Move 'Em Out
               </font></p>
@@ -154,7 +154,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<a href="images/yearly/2023/Jumbo_PunchinCows_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_PunchinCows_Ad_23.jpg" width="200" height="288" border="0"></a><br>
                 </font></p>
               <p><font size="2" face="Arial, Helvetica, sans-serif">
-                <input type=radio name='Style' value='Style # PCC14'checked>
+                <input type=radio name='Style' value='Style # PCC14'>
                 <!-- <img height="16" src="images/newanim.gif" width="33" /> -->
                 Style # PCC14<br />
                 Punchin' Cows at Crow Creek
