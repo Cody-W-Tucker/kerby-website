@@ -133,7 +133,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
             <td width="202" valign="top" bordercolor="#FFFFFF" bgcolor="#EFF3F7"><div align="center">
              <font face="Arial, Helvetica, sans-serif" size="2"></font></strong> </font><span style="font-size:16px;"><font face="Arial, Helvetica, sans-/>
              
-                <a href="calendar2.htm"><p><a href="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg" width="250" height="340" border="0"></a></p>
+                <a href="calendar2.htm"><p><a href="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_New_HeadEmUp_Ad_23.jpg" width="250" height="340" border="0"></a></p>
                 <p><font size="3" face="Arial, Helvetica, sans-serif"> 
                   <input type=radio name='CalendarStyle' value='Style #HMO17'>
                   Style # HMO17<br />
@@ -142,7 +142,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
               </div></td>
             <td width="211" height="30" valign="top" bordercolor="#FFFFFF" bgcolor="#EFF3F7"> 
              <a href="calendar2.htm"><div align="center"> 
-                <p><a href="images/yearly/2023/Jumbo_PunchinCows_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_New_PunchinCows_Ad_23.jpg" width="250" height="340" border="0"></a></p>
+                <p><a href="images/yearly/2023/Jumbo_PunchinCows_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_PunchinCows_Ad_23.jpg" width="250" height="340" border="0"></a></p>
                 <p><font size="3" face="Arial, Helvetica, sans-serif"> 
                   <input type=radio name='CalendarStyle' value='Style #PCC14' checked>
                   Style # PCC14<br />

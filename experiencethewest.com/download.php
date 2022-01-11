@@ -52,7 +52,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><!-- fwtable fwsrc="07T.png" fwbase="07aT.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
 				<tbody>
 					<tr>
-						<td width="175"><a href="index.html"><img border="0" height="140" src="images/LOGO.gif" width="200" /></a></td>
+						<td width="175"><a href="index.html"><img border="0" height="140" src="images/global/LOGO.gif" width="200" /></a></td>
 						<td width="100%">
 						<div align="center"><font face="Arial, Helvetica, sans-serif" size="3"><strong><font size="6">Welcome to the Western World of artist Bob Kerby. </font><br />
 						<br />
@@ -66,7 +66,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
               | <a href="order.htm">Order</a> | <a href="contact.htm">Contact 
 		      Us</a></strong></font></div></td>-->
 						<td colspan="2">
-						<div align="center"><font face="Arial, Helvetica, sans-serif" size="4"><strong><a href="calendar2.htm">Range Rider Calendars</a> | <a href="jumbo.htm">Jumbo Calendars</a> | <a href="cookin.htm">Cookbooks</a> | <a href="cards.htm">Cards</a> | <a href="prints.htm">Prints</a> | <a href="order.htm">Order</a> | <a href="contact.htm">Contact Us</a> | <a href="about.htm">About Us</a> </strong> </font></div>
+						<div align="center"><font face="Arial, Helvetica, sans-serif" size="4"><strong><a href="calendar2.html">Range Rider Calendars</a> | <a href="jumbo.html">Jumbo Calendars</a> | <a href="https://shop.experiencethewest.com/shop/cookbooks/range-riders-american-west-cookbooks/">Cookbooks</a> | <a href="https://shop.experiencethewest.com/shop/christmas-cards/assorted-christmas-card-pack/">Cards</a> | <a href="https://shop.experiencethewest.com/product-category/art-prints/">Prints</a> | <a href="https://shop.experiencethewest.com/shop/">Order</a> | <a href="contact.html">Contact Us</a> | <a href="about.html">About Us</a> </strong> </font></div>
 
 						</td>
 					</tr>
@@ -167,7 +167,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
 			<p>&nbsp;<!-- InstanceEndEditable --></p>
 
-			<p align="right"><font color="#996633" face="Verdana, Arial, Helvetica, sans-serif" size="2">&copy; 2021&nbsp;Bob Kerby&#39;s Longhorn Studio </font></p>
+			<p align="right"><font color="#996633" face="Verdana, Arial, Helvetica, sans-serif" size="2">&copy; 2022&nbsp;Bob Kerby&#39;s Longhorn Studio </font></p>
 			</td>
 		</tr>
 	</tbody>

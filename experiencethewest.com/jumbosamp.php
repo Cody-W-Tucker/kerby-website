@@ -140,7 +140,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
               <font size="2" face="Arial, Helvetica, sans-serif">(Check box)</font></td>
             <td width="30%" height="30" valign="top" bordercolor="#FFFFFF" bgcolor="#EFF3F7"><div align="center">
               <p><font size="2" face="Arial, Helvetica, sans-serif">
-		<a href="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg" width="200" height="288" border="0"></a><br>
+		<a href="images/yearly/2023/Jumbo_HeadEmUp_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_New_HeadEmUp_Ad_23.jpg" width="200" height="288" border="0"></a><br>
                 </font></p>
               <p><font size="2" face="Arial, Helvetica, sans-serif">
                <input type=radio name='Style' value='Style # HMO17'>
@@ -151,7 +151,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
             <td width="30%" height="30" valign="top" bordercolor="#FFFFFF" bgcolor="#EFF3F7"><div align="center">
                 <p><font size="2" face="Arial, Helvetica, sans-serif">
                   
-		<a href="images/yearly/2023/Jumbo_PunchinCows_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_New_PunchinCows_Ad_23.jpg" width="200" height="288" border="0"></a><br>
+		<a href="images/yearly/2023/Jumbo_PunchinCows_Ad_23.jpg"><img src="images/yearly/2023/Jumbo_PunchinCows_Ad_23.jpg" width="200" height="288" border="0"></a><br>
                 </font></p>
               <p><font size="2" face="Arial, Helvetica, sans-serif">
                 <input type=radio name='Style' value='Style # PCC14'checked>
