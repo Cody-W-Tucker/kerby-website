@@ -3,4 +3,4 @@ replace contents in psd templates located in experiencethewest.com/images/yearly
 make sure each final image is named the same as last years image
 update folder links in html to current year +1
 
-when finished move last year's folder to archive/old-images (this folder has correct web premissions to hide from public)
+when finished move last year's folder to archive/old-images
