@@ -1,4 +1,4 @@
-# Generic Webchanges Template
+# Generic Web changes Template
 
 Home Page: Change 6 dates to 2023
 In small rectangle at bottom left--replace calendar with Cover_23.png
