@@ -66,7 +66,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
               | <a href="order.htm">Order</a> | <a href="contact.htm">Contact 
 		      Us</a></strong></font></div></td>-->
 						<td colspan="2">
-						<div align="center"><font face="Arial, Helvetica, sans-serif" size="4"><strong><a href="calendar2.html">Range Rider Calendars</a> | <a href="jumbo.html">Jumbo Calendars</a> | <a href="https://shop.experiencethewest.com/shop/cookbooks/range-riders-american-west-cookbooks/">Cookbooks</a> | <a href="https://shop.experiencethewest.com/shop/christmas-cards/assorted-christmas-card-pack/">Cards</a> | <a href="https://shop.experiencethewest.com/product-category/art-prints/">Prints</a> | <a href="https://shop.experiencethewest.com/shop/">Order</a> | <a href="contact.html">Contact Us</a> | <a href="about.html">About Us</a> </strong> </font></div>
+						<div align="center"><font face="Arial, Helvetica, sans-serif" size="4"><strong><a href="calendar2.html">Range Rider Calendars</a> | <a href="jumbo.html">Jumbo Calendars</a> | <a href="https://shop.experiencethewest.com/shop/cookbooks/range-riders-american-west-cookbooks/">Cookbooks</a> | <a href="https://shop.experiencethewest.com/shop/christmas-cards/assorted-christmas-card-pack/">Cards</a> | <a href="https://shop.experiencethewest.com/product-category/art-prints/">Prints</a> | <a href="https://shop.experiencethewest.com/">Order</a> | <a href="contact.html">Contact Us</a> | <a href="about.html">About Us</a> </strong> </font></div>
 
 						</td>
 					</tr>

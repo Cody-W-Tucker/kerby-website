@@ -1,5 +1,5 @@
 /* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
-@import url("https://cdn-images.mailchimp.com/embedcode/classic-10_7.css");
+@import url('https://cdn-images.mailchimp.com/embedcode/classic-10_7.css');
 
 #mc_embed_signup {
   display: grid;
@@ -28,4 +28,13 @@
   #mc_embed_signup {
     display: block;
   }
+  .cal-style {
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+}
+.cal-style {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: baseline;
 }
