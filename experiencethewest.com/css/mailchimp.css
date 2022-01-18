@@ -1,0 +1,31 @@
+/* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
+@import url("https://cdn-images.mailchimp.com/embedcode/classic-10_7.css");
+
+#mc_embed_signup {
+  display: grid;
+  grid-template-columns: auto;
+  max-width: 100%;
+  background: #eef3f7;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+  justify-items: center;
+  padding: 30px;
+}
+.form_left {
+  grid-column: 1;
+}
+.form_right {
+  grid-column: 2;
+  grid-row-start: 1;
+}
+.clear {
+  grid-column: 2;
+}
+@media (max-width: 800px) {
+  .form_left {
+    display: none !important;
+  }
+  #mc_embed_signup {
+    display: block;
+  }
+}
