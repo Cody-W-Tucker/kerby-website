@@ -7,7 +7,6 @@
   max-width: 100%;
   background: #eef3f7;
   clear: left;
-  font: 14px Helvetica, Arial, sans-serif;
   justify-items: center;
   padding: 30px;
 }
@@ -22,15 +21,16 @@
   grid-column: 2;
 }
 @media (max-width: 800px) {
-  .form_left {
-    display: none !important;
-  }
   #mc_embed_signup {
     display: block;
+  }
+  .form_left {
+    display: none !important;
   }
   .cal-style {
     flex-wrap: wrap;
     flex-direction: column;
+    align-content: space-around;
   }
 }
 .cal-style {
