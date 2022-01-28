@@ -2,6 +2,11 @@
 
 This site changes yearly, below you will find a list of expected changes and instructions on how to carry them out.
 
+##Deployment
+
+Github --> Local --> Release --> FTP client's Godaddy account.
+Github: https://github.com/Cody-W-Tucker/kerby-website/
+
 ## Ideas for technical improvement.
 
 - Enforce consistent image ratios to ensure images are the correct size. Size is set in HTML, should remove sizes in HTML and recreate in CSS. This will ensure images are always formated correctly and don't appear blurry.
