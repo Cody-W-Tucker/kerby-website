@@ -4,21 +4,21 @@ This site changes yearly, below you will find a list of expected changes and ins
 
 ## Ideas for technical improvement.
 
-- Enforce consistent image ratios to insure images are correct size. Size is set in html, should remove sizes in html and recreate in css. This will insure images are always formated correctly and don't appear blurry.
+- Enforce consistent image ratios to ensure images are the correct size. Size is set in HTML, should remove sizes in HTML and recreate in CSS. This will ensure images are always formated correctly and don't appear blurry.
 - Uppdate to HTML5 standard.
-  - Remove html structure and style with css.
-  - Create html templates and serve with JS all repeated elements.
+  - Remove HTML structure and style with CSS.
+  - Create HTML templates and serve with JS all repeated elements.
 - Remove old and unused redirection rules in .htaccess
-  - redirect files to not have to enter file extension in browser. (index.html --> index)
-- Should load analytics script from seperate script file for best practice.
+  - Remove the need to enter file extensions in the browser. (index.html --> index)
+- Should load analytics script from separate script file for best practice.
 
 # Image optimization instructions.
 
-1. Reduce size of images by 30% and save as png if transparent and jpeg if not transparent (compress if needed.)
-2. Name final images the same as last years.
+1. Reduce the size of images by 30% and save as png if transparent and jpeg if not transparent (compress if needed.)
+2. Name final images the same as last year.
 3. Save into images/yearly/{current year +1}
-4. Update folder links in html to current year +1.
-5. When finished remove previous year's folder to be saved on client's local storage.
+4. Update folder links in HTML to current year +1.
+5. When finished, remove the previous year's folder to be saved on the client's local storage.
 
 # Yearly web changes.
 
@@ -38,11 +38,11 @@ This site changes yearly, below you will find a list of expected changes and ins
 
 1. Change 1 date to 2023.
 2. Replace top calendar image with Combined_Ad_23_A.png
-3. Recreate or replace slide show. Start with Cover_Ad_23.jpg and put month & year on pics; These pictures are abbreviated accordingly to month as RR_Appt23_01.jpg (etc.) (with (01) being the month.) This was originally done using animations in photoshop. Need to get template from client.
+3. Recreate or replace slide show. Start with Cover_Ad_23.jpg and put month & year on images; These images are abbreviated accordingly to month as RR_Appt23_01.jpg (etc.) (with (01) being the month.) This was originally done using animations in photoshop. Need to get the template from the client.
 
 ## prices2022.html
 
-**Consider updating file url to prices.html to stop having to update url every year.**
+**Consider updating file name to prices.html to stop having to update URL every year.**
 
 1. Adjust prices (add 8 cents to each price)
 2. Change 1 date to 2023 on the very top.
@@ -51,12 +51,12 @@ This site changes yearly, below you will find a list of expected changes and ins
 ## reserve.html
 
 1. Change 2 dates to 2022.
-2. Replace top pic with Combined_Ad_23_A png
-3. Replace bottom pic with Cover_Ad_23.png
+2. Replace top image with Combined_Ad_23_A png
+3. Replace bottom image with Cover_Ad_23.png
 
 ## RRBusinessCalendars.html
 
-1. Replace cal pic with Cover_Ad_23.png
+1. Replace calendar image with Cover_Ad_23.png
 
 ## jumbo.html
 
@@ -64,7 +64,7 @@ This site changes yearly, below you will find a list of expected changes and ins
 2. Pricing stays the same.
 3. Recreate "NEW" starburst image with images/yearly/Jumbo_New_template_Full.psd
    - Export as images/yearly/{current year +1}/Jumbo_New_HeadEmUp_Ad_23.png size 869 x 1280
-4. Replace old "NEW" image with "NEW" starburst image.
+4. Replace the old "NEW" image with the "NEW" starburst image.
    - Under the image update the calendar title and style: Head 'Em Up Move 'Em Out #HMO17
    - Replicate any text style provided on the website.
    - Description change: CALLING ALL HANDS... We've got cattle to move! It's always fun to see a nice bunch of calves coming off grass. "Head 'Em Up Move 'Em Out" puts you front and center in the middle of the action and makes you want to blurt out... _get along little doggie!_
@@ -75,9 +75,9 @@ This site changes yearly, below you will find a list of expected changes and ins
 
 ## jumbosamp.html
 
-1. Replace old calendar image on the left with: Jumbo_New_HeadEmUp_Ad_23.png
+1. Replace the old calendar image on the left with: Jumbo_New_HeadEmUp_Ad_23.png
    - Update title to Head 'Em Up Move 'Em Out and Style to #HMO17
-2. Replace old calendar image on the right with Jumbo_PunchinCows_Ad_23.jpg
+2. Replace the old calendar image on the right with Jumbo_PunchinCows_Ad_23.jpg
    - Update title to Punchin' Cows at Crow Creek and Style to #PCC14
 
 ## jumbores.html
