@@ -5,6 +5,7 @@ This site changes yearly, below you will find a list of expected changes and ins
 ##Deployment
 
 Github --> Local --> Release --> FTP client's Godaddy account.
+
 Github: https://github.com/Cody-W-Tucker/kerby-website/
 
 ## Ideas for technical improvement.
