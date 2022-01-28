@@ -2,7 +2,7 @@
 
 This site changes yearly, below you will find a list of expected changes and instructions on how to carry them out.
 
-##Deployment
+## Deployment
 
 Github --> Local --> Release --> FTP client's Godaddy account.
 
