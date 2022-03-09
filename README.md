@@ -11,7 +11,7 @@ Github: https://github.com/Cody-W-Tucker/kerby-website/
 ## Ideas for technical improvement.
 
 - Enforce consistent image ratios to ensure images are the correct size. Size is set in HTML, should remove sizes in HTML and recreate in CSS. This will ensure images are always formated correctly and don't appear blurry.
-- Uppdate to HTML5 standard.
+- Update to HTML5 standard.
   - Remove HTML structure and style with CSS.
   - Create HTML templates and serve with JS all repeated elements.
 - Remove old and unused redirection rules in .htaccess
